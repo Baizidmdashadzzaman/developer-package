@@ -1,0 +1,19 @@
+{
+    "name": "baizidmdashadzzaman/developer",
+    "description": "I'm Baizid MD Ashadzzaman, a passionate and versatile software engineer with a strong foundation in Computer Science and Engineering. This package's purpose is to integrate my information in a website that I have built using laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Baizidmdashadzzaman\\Developer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baizidmdashadzzaman",
+            "email": "baizid.md.ashadzzaman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
