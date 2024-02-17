@@ -8,6 +8,13 @@
             "Baizidmdashadzzaman\\Developer\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Baizidmdashadzzaman\\Developer\\DeveloperServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Baizidmdashadzzaman",
